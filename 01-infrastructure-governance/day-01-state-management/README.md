@@ -1,4 +1,4 @@
-# Day 01: Multi-Account Remote State & Governance 🏗️
+# Day 01: Multi-Account Remote State & Governance 
 
 ### 🎯 Objective
 To establish an enterprise-grade "Source of Truth" for infrastructure management by bootstrapping a secure, remote backend with state locking.
